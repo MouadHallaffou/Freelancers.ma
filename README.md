@@ -30,9 +30,9 @@ Distribué sous licence MIT — libre d'utilisation et de modification.
 
 ## 👥 Auteurs
 
+- [@MouadHallaffou](https://github.com/MouadHallaffou)
 - [@YahyaAf](https://github.com/YahyaAf)
 - [@Salma-007](https://github.com/Salma-007)
-- [@MouadHallaffou](https://github.com/MouadHallaffou)
 - [@Hamza-01f](https://github.com/Hamza-01f)
 
 ---
